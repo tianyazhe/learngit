@@ -2,5 +2,9 @@ Git is a version control system.
 This is a test.
 aaaaaaaaaaa
 bbbbbbbbbbbbbbb
-eeeeeeeeeeeeeeeeeeee
+<<<<<<< HEAD
+ddddddddddddddddddddddddddddddd
+=======
+ddddddddddddddddddddddddddddddd
+>>>>>>> feature1
 cccccccccccccccccccc
